@@ -1,0 +1,13 @@
+[15-May-2025 01:18:30 UTC] ::session.inc:453:[before upgrade] Undefined variable $dflt_lang
+[15-May-2025 01:18:30 UTC] ::session.inc:453:[before upgrade] Undefined variable $installed_languages
+[15-May-2025 01:18:30 UTC] ::session.inc:454:[before upgrade] Trying to access array offset on value of type null
+[15-May-2025 01:18:30 UTC] ::session.inc:454:[before upgrade] Trying to access array offset on value of type null
+[15-May-2025 01:18:30 UTC] ::session.inc:454:[before upgrade] Trying to access array offset on value of type null
+[15-May-2025 01:18:30 UTC] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[15-May-2025 01:18:30 UTC] 0::login.php:117:[before upgrade] Undefined variable $db_connections
+[15-May-2025 01:18:30 UTC] 0::login.php:117:[before upgrade] Unhandled exception [0]: count(): Argument #1 ($value) must be of type Countable|array, null given.
+[15-May-2025 01:19:09 UTC] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[15-May-2025 01:19:14 UTC] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[15-May-2025 01:19:14 UTC] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[15-May-2025 01:19:14 UTC] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[15-May-2025 01:19:14 UTC] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
